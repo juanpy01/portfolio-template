@@ -126,6 +126,10 @@ h1 {
   letter-spacing: 1px;
 }
 
+.text-section p {
+  text-align: justify;
+}
+
 .title-section {
   display: flex;
   align-items: center;
