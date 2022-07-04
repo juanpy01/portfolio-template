@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
 
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
+  --primary-color: #43a0de;
+  --primary-color-dark: #093a5c;
   --accent-color: #FFF8F0;
 }
 
@@ -13,7 +14,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar {
